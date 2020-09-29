@@ -1,4 +1,4 @@
-# fb-brute
+# fb-hacker
 
 This is Facebook brute Force attack tool
 
@@ -19,9 +19,9 @@ Then type below commands 👇
 
 `pkg install python python2 git`
 
-`git clone https://github.com/bhavyramani/fb-brute`
+`git clone https://github.com/bhavyramani/fb-hacker`
 
-`cd fb-brute`
+`cd fb-hacker`
 
 `python2 fb.py`
 
