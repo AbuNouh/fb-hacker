@@ -19,7 +19,7 @@ Then type below commands 👇
 
 `pkg install python python2 git`
 
-`git clone https://github.com/bhavyramani/fb-hacker`
+`'git clone https://github.com/bhavyramani/fb-hacker'`
 
 `cd fb-hacker`
 
