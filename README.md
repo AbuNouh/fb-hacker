@@ -42,7 +42,7 @@ Now enter victim's id in termux and it will ask you for File Wordlist.
 Type:
 `wordlist.txt`
 
-It will try all password in text when password will correct, program will be ended:
+It will try all password in text file. When password will correct, program will be ended:
 <img src="https://user-images.githubusercontent.com/69421006/94423588-7c819c80-01a6-11eb-8681-f7f07d1e2fb8.jpg">
 
 
