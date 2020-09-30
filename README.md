@@ -35,7 +35,8 @@ But if you don't Know email then enter id.
 
 #### How to know victim's id:
 
-👉 Search on YouTube
+Go to Facebook and share victim's profile on WhatsApp
+<img src=""></
 
 Now enter victim's id in termux and it will ask you for File Wordlist.
 Type:
