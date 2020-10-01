@@ -32,7 +32,7 @@ banner = '''\n\033[36;1m
 '''
 def ceknet():
     try:
-    	os.system('reset')
+    	os.system('clear')
         print internet
         print '\r\033[37;1m[\x1b[92m+\033[37;1m] \033[37;1mChecking for Internet'
         time.sleep(2)
@@ -63,7 +63,7 @@ def ceknet():
         exit('\n\033[37;1m[\x1b[92mx\033[37;1m] \033[31;1mProgram Stopped\n')
 def start():
         try:
-            os.system('reset')
+            os.system('clear')
             print banner
             email = raw_input('\033[32;1m[\033[37;1m~\033[32;1m]\033[37;1m ID \033[33;1m/ \033[37;1mEmail\033[33;1m / \033[37;1mHP \033[31;1m: \033[32;1m')
             passw = raw_input('\033[32;1m[\033[37;1m~\033[32;1m]\033[37;1m File Wordlist   \033[31;1m:\033[32;1m ')
@@ -71,7 +71,7 @@ def start():
             total = total.readlines()
             print '\033[34;1m[\033[37;1m*\033[34;1m] \033[37;1mTarget\033[36;1m :\033[32;1m ' + email
             time.sleep(3.0)
-            print '\033[34;1m[\033[37;1m^*\033[34;1m] \033[37;1mTotal List \033[36;1m:\033[32;1m ' + str(len(total))
+            print '\033[34;1m[\033[37;1m*\033[34;1m] \033[37;1mTotal List \033[36;1m:\033[32;1m ' + str(len(total))
             time.sleep(3.0)
             print
             sandi = open(passw, 'r')
